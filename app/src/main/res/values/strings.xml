@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MY First Kotlin LC</string>
+    <string name="label_submit">Submit</string>
+    <string name="label_address">Address</string>
+    <string name="label_push_notification">Push notification</string>
+    <string name="label_mobile_number">Mobile Number</string>
+    <string name="label_female">Female</string>
+    <string name="label_male">Male</string>
+    <string name="label_gender">Gender</string>
+    <string name="label_date_of_birth">Date of birth</string>
+    <string name="label_email_address">Email Address</string>
+    <string name="label_second_name">Second Name</string>
+    <string name="label_first_name">First Name</string>
+    <string name="label_password">Password</string>
+    <string name="label_login_id">Login Id</string>
+    <string name="label_login">Login</string>
+    <string name="label_signup">Signup</string>
+</resources>
